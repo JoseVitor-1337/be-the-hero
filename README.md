@@ -19,7 +19,7 @@
 - Node.js
 - Api Rest
 - TDD
-- SQLiteDB (Knex.js)
+- SQLite3 (Knex.js)
 
 <span style="font-size:1.1em">mobile</span>.
 
