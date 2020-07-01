@@ -12,7 +12,6 @@
 
 - React.js
 - React Hooks
-- consume API Rest
 
 <span style="font-size:1.1em">Back End</span>.
 
@@ -26,7 +25,6 @@
 - Expo
 - React native
 - React Hooks
-- consume API Rest
 
 <br />
 
