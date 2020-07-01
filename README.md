@@ -114,6 +114,6 @@ npm start
 
 ### Will open this in your main browser
 
-![Metro-Bundler]()
+![Metro-Bundler](https://github.com/JoseVitor-1337/be-the-hero/blob/master/captured.gif)
 
 ### Open the expo app in your mobile device and read this QR Code.
