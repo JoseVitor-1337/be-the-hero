@@ -59,9 +59,9 @@ cd be-the-hero
 
 <br>
 
-## Back End
+## To Start Back End
 
-To Start Back End
+Open the **backend** folder in your terminal and run:
 
 ```
 cd backend
@@ -74,13 +74,9 @@ npm start
 
 <br>
 
-## Front End
+## To Start Front End (Web)
 
-To Start Front End (Web)
-
-- Open a new Terminal Window
-- Go to directory that your clone this repository
-- run this commands
+Open the **frontend** folder in your terminal and run:
 
 ```
 cd frontend
@@ -93,13 +89,9 @@ npm start
 
 <br>
 
-## Mobile
+## To Start Mobile
 
-To Start Mobile
-
-- Open a new Terminal Window
-- Go to directory that your clone this repository
-- run this commands
+Open the **mobile** folder in your terminal and run:
 
 ```
 cd mobile
