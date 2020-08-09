@@ -1,7 +1,5 @@
 # Be-The-Hero
 
----
-
 ## Be a Hero and save the cases that companies post on this site, build in omnistack week
 
 ---
