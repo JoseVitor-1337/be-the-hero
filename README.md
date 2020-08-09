@@ -2,6 +2,8 @@
 
 ## Be a Hero and save the cases that companies post on this site, build in omnistack week
 
+<img src="https://github.com/JoseVitor-1337/be-the-hero/blob/master/Interface.svg" width="1280" heigth="720">
+
 ---
 
 ## Features and concepts used
