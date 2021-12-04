@@ -1,9 +1,6 @@
 # Be-The-Hero
 
-## Be a Hero and save the cases that companies post on this site, build in omnistack week
-
-
-## Features and concepts used
+### Features and concepts used
 
 <span style="font-size:1.1em">Web</span>.
 
